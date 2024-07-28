@@ -25,7 +25,7 @@ Event handling: Detecting user input (e.g., key presses) to control the snake's 
 Collision detection: Checking if the snake collides with the walls or its own tail.
 Game loop: The core structure of the game that continuously updates the game state and redraws the screen.
 
-**Learning objectives:*
+**Learning objectives:**
 
 *This project provides an opportunity to practice fundamental Python programming concepts like variables, loops, conditional statements, and functions.
 *It introduces you to Pygame for creating interactive games and working with graphics in Python.
@@ -40,8 +40,6 @@ Game loop: The core structure of the game that continuously updates the game sta
 
 1. Make sure you have Python and Pygame installed.
 2. Run the script using:  `python Snake_Game_Pygame.py`
-
-**Additional Notes:**
 
 
 ## Other Projects

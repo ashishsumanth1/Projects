@@ -27,11 +27,11 @@ Game loop: The core structure of the game that continuously updates the game sta
 
 **Learning objectives:**
 
-*This project provides an opportunity to practice fundamental Python programming concepts like variables, loops, conditional statements, and functions.
+This project provides an opportunity to practice fundamental Python programming concepts like variables, loops, conditional statements, and functions.
 
-*It introduces you to Pygame for creating interactive games and working with graphics in Python.
+It introduces you to Pygame for creating interactive games and working with graphics in Python.
 
-*You'll gain experience in game design principles, including game mechanics, user input handling, and collision detection.)
+You'll gain experience in game design principles, including game mechanics, user input handling, and collision detection.)
 
 **Requirements:**
 

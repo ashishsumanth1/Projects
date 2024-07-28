@@ -13,7 +13,7 @@ This script implements a simple Snake game using the Pygame library.
 
 **Description:**
 
-(Here, provide a brief explanation of the Snake game and its gameplay mechanics.)
+()
 
 **Requirements:**
 
@@ -27,15 +27,15 @@ This script implements a simple Snake game using the Pygame library.
 
 **Additional Notes:**
 
-(Mention any specific points about the Snake game implementation or learning points you focused on.)
+()
 
 ## Other Projects
 
-* (List and briefly describe other Python scripts in the folder)
+* ()
 
 ## Learning Goals
 
-(State your learning objectives for working on these projects. What skills do you aim to improve?)
+()
 
 ## Feedback and Contributions
 

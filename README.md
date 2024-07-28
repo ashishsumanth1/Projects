@@ -18,8 +18,11 @@ The game features a snake that moves around the screen using the arrow keys. The
 **Key libraries and concepts used:**
 
 Pygame: A popular Python library for creating multimedia applications, including games.
+
 Event handling: Detecting user input (e.g., key presses) to control the snake's movement.
+
 Collision detection: Checking if the snake collides with the walls or its own tail.
+
 Game loop: The core structure of the game that continuously updates the game state and redraws the screen.
 
 **Learning objectives:**

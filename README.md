@@ -13,10 +13,7 @@ The Snake Game is a classic arcade game where you control a snake that grows lon
 
 **Description:**
 
-*The game features a snake that moves around the screen using the arrow keys.
-*The snake grows longer each time it eats a piece of food (represented by a square).
-*The game ends if the snake hits the walls or its own tail.
-*The score is displayed on the screen, and it increases with each piece of food eaten.
+The game features a snake that moves around the screen using the arrow keys. The snake grows longer each time it eats a piece of food (represented by a square). The game ends if the snake hits the walls or its own tail. The score is displayed on the screen, and it increases with each piece of food eaten.
 
 **Key libraries and concepts used:**
 
@@ -28,7 +25,9 @@ Game loop: The core structure of the game that continuously updates the game sta
 **Learning objectives:**
 
 *This project provides an opportunity to practice fundamental Python programming concepts like variables, loops, conditional statements, and functions.
+
 *It introduces you to Pygame for creating interactive games and working with graphics in Python.
+
 *You'll gain experience in game design principles, including game mechanics, user input handling, and collision detection.)
 
 **Requirements:**
